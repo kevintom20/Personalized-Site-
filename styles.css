@@ -66,14 +66,22 @@ a:hover{
   line-height: 2;
 }
 
+.hacker{
+  width: 300px;
+  height: 300px; 
+}
 
 .skill1{
+  width:150px;
+  height:150px;
   border-radius: 50%;
   float: left;
   margin-right: 30px;
 }
 
 .skill2{
+  width:150px;
+  height:150px;
   float: right;
   margin-left: 30px;
 }
